@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 const PAYSTACK_KEY = "pk_test_REPLACE_WITH_YOUR_KEY";
-const WHATSAPP = "2348000000000";
+const WHATSAPP = "2349035504425";
 
 const COMBOS = [
   { id:"chop-life", name:"Chop Life", tagline:"Simple. Filling. No stress.", items:["1 foil cake (flavor of your choice)","1 zobo bottle"], price:2100, saves:100, image:"https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=500&fit=crop&q=85" },
