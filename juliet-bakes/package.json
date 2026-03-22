@@ -25,3 +25,8 @@
     "vite": "^8.0.1"
   }
 }
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}git add .
